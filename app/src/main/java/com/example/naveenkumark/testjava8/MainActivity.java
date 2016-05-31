@@ -19,11 +19,6 @@ public static final String TAG = "TAG";
             testLambda2();
         }
         );
-
-        /*Person p1 = new Person("Naveen", 31, 1);
-        Person p2 = new Person("Naveen", 31, 2);
-        testFunctionalInterfaceLambda(p1);
-*/
     }
 
 
