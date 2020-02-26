@@ -24,7 +24,7 @@ public static final String TAG = "TAG";
 
     public void testLambda1(){
 
-        Log.d("TAG", "testLambda1: ");
+        Log.d("TAG", "This is new test for Git: ");
         Log.e(TAG, "testLambdaerror: " );
         Log.i(TAG, "testLambdainfo: ");
         Log.v(TAG, "verbose");
