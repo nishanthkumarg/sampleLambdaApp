@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/sampleLambdaApp.iml" filepath="$PROJECT_DIR$/sampleLambdaApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/sampleLambdaApp-app.iml" filepath="$PROJECT_DIR$/app/sampleLambdaApp-app.iml" group="sampleLambdaApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/sampleLambdaApp222.iml" filepath="$PROJECT_DIR$/sampleLambdaApp222.iml" group="sampleLambdaApp222" />
+      <module fileurl="file://$PROJECT_DIR$/app/sampleLambdaApp222-app.iml" filepath="$PROJECT_DIR$/app/sampleLambdaApp222-app.iml" group="sampleLambdaApp222/app" />
     </modules>
   </component>
 </project>
